@@ -23,7 +23,7 @@ h4,
 h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 700;
 }
 a {
   color: #404040;
@@ -195,10 +195,9 @@ hr.small {
   font-weight: 600;
 }
 .intro-header .post-heading .meta {
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-style: italic;
+  font-family: 'Open Sans','Lora', 'Times New Roman', serif;
   font-weight: 300;
-  font-size: 20px;
+  font-size: 1.5rem;
 }
 .intro-header .post-heading .meta a {
   color: white;

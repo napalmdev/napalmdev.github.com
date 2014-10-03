@@ -34,7 +34,17 @@
 
 <body>
 
-    <!-- Navigation -->
+    <!-- Facebook Comment Plugin -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&appId=699225716797752&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Navigation -->
 <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
@@ -56,15 +66,11 @@
                 </li>
                 
                 <li>
-                    <a href="/about/">About</a>
+                    <a href="/about/">Sobre</a>
                 </li>
                 
                 <li>
-                    <a href="/contact/">Contact</a>
-                </li>
-                
-                <li>
-                    
+                    <a href="/contact/">Contato</a>
                 </li>
                 
                 <li>
@@ -143,11 +149,35 @@
 
 
                 <hr>
+                
+                <div class="fb-comments" data-href="http://napalmdth.github.io/Dinosaurs are extinct today" data-numposts="5" data-colorscheme="light"></div>
+
+                <br>    
+                <hr>
+                <br>
+                
+                 <div id="disqus_thread"></div>
+                    <script type="text/javascript">
+                        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                        var disqus_shortname = 'pandawebdev'; // required: replace example with your forum shortname
+
+                        /* * * DON'T EDIT BELOW THIS LINE * * */
+                        (function() {
+                            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                        })();
+                    </script>
+                    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    
+
+
 
                 <ul class="pager">
                     
                     <li class="previous">
-                        <a href="//2014/07/01/dreams/" data-toggle="tooltip" data-placement="top" title="The dreams of yesterday are the hopes of today and the reality of tomorrow.">&larr; Next Post</a> 
+                        <a href="//2014/10/03/La-e-de-volta-outra-vez/" data-toggle="tooltip" data-placement="top" title="Lá e de volta outra vez">&larr; Next Post</a> 
                     </li>
                      
                      
@@ -167,7 +197,7 @@
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <ul class="list-inline text-center">
                     <li>
-                        <a href="/feed.xml">
+                        <a href="/feed.xml" target="_blank">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
@@ -176,7 +206,7 @@
                     </li>
                     
                     <li>
-                        <a href="https://twitter.com/napalmdth">
+                        <a href="https://twitter.com/napalmdth" target="_blank">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
@@ -186,7 +216,7 @@
                     
                     
                     <li>
-                        <a href="https://www.facebook.com/denis.fnunes">
+                        <a href="https://www.facebook.com/denis.fnunes" target="_blank">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
@@ -196,7 +226,7 @@
                     
                     
                     <li>
-                        <a href="https://github.com/napalmdth">
+                        <a href="https://github.com/napalmdth" target="_blank">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-github fa-stack-1x fa-inverse"></i>
@@ -219,6 +249,20 @@
 
 <!-- Custom Theme JavaScript -->
 <script src="/js/clean-blog.min.js "></script>
+
+
+<script type="text/javascript">
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'pandawebdev'; // required: replace example with your forum shortname
+
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function () {
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
 
 
 </body>
