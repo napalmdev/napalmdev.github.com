@@ -2,12 +2,167 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PandaDev</title>
-    <description>Site voltado a Desenvolvimento Web, Front-end, Back-end e DevOps</description>
+    <description>Site voltado ao Desenvolvimento Web, Front-end, Back-end e DevOps</description>
     <link>http://napalmdth.github.com/</link>
     <atom:link href="http://napalmdth.github.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 07 Oct 2014 14:34:22 -0300</pubDate>
-    <lastBuildDate>Tue, 07 Oct 2014 14:34:22 -0300</lastBuildDate>
+    <pubDate>Mon, 13 Oct 2014 16:54:46 -0300</pubDate>
+    <lastBuildDate>Mon, 13 Oct 2014 16:54:46 -0300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Melhores Ferramentas para Desenvolvedores Web</title>
+        <description>&lt;h3 id=&quot;chega-de-sofrer-chega-de-chorar-hu3hu3hu3&quot;&gt;Chega de sofrer, chega de chorar Hu3Hu3Hu3&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/img/post-02-imgcontent1.jpg&quot; alt=&quot;Imagem de Varios Editores e IDEs&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Faaaaala galera, começa aqui e agora uma série de tutoriais sobre as melhores ferramentas pra quem quer desenvolver para Web. Eu falarei superficialmente sobre cada uma das opções e posteriormente farei posts separados falando especificamente de cada ferramenta que uso em meus projetos, espero que gostem e testem estas ferramentas pois com certeza lhes serão úteis assim como estão sendo para mim.&lt;/p&gt;
+
+&lt;p&gt;O tema de hoje será algo que é essencial para qualquer WebDev, que é a escolha de uma IDE (Integrated Development Environment) como Eclipse, NetBeans, PHPStorm/WebStorm, ou um Editor de Texto como o Sublime-Text(*---*), Brackets, Atom, Notepad++,Vim, etc. Bom sem mais delongas vamos lá.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;editores-ou-ides&quot;&gt;Editores ou IDE’s?&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;Bom, a escolha entre Editor de Texto ou IDE vai depender exclusivamente se você precisará ou não Compilar ou Debuggar sua aplicação, outra característica das IDE’s é abrir navegador automaticamente para que você possa conferir as alterações em seu código, caso não precise destas features nativamente(pois com alguns Plugins os Editores conseguem fazer as mesmas coisas) pode utilizar um Editor de Textos normalmente.
+Começarei falando sobre as IDE’s mais conhecidas pra WebDev(com PHP ou JavaScript):&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ides&quot;&gt;IDE’s&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;eclipse&quot;&gt;1.Eclipse&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;http://www.eclipse.org/downloads/packages/eclipse-php-developers/lunasr1&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;S.O: Cross Platform&lt;/strong&gt;
+&lt;br /&gt;
+&lt;strong&gt;Licença:  Free&lt;/strong&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;O eclipse é uma ótima IDE, e ele tem uma versão específica para PHP, o &lt;em&gt;Eclipse for PHP Developers&lt;/em&gt; link acima, tem vários plugins e recursos que podem ser adicionados a ele além de ótimos temas, e mais uma coisa…..&lt;strong&gt;IT’S FREE  \o/&lt;/strong&gt;.
+As últimas versões do Eclipse tem uma facilidade tremenda pois possibilitam a instalação de plugins dentro do próprio Eclipse, o que facilita muito a vida de quem o utiliza, outra Feature legal do Eclipse é o uso de perspectivas, nelas você pode escolher qual linguagem de programação está trabalhando e o Eclipse organizará seus menus e ferramentas de acordo com a linguagem escolhida.
+As desvantagens do Eclipse é que por ser uma IDE robusta ele é lento para abrir e pesado, e também sua interface inicial ocupa muito espaço da tela, é claro que isso pode ser personalizado mas seria melhor se viesse mais clean um pouco, visto que muitos Web Developers codificam maior parte do tempo no Notebook.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;webstormphpstorm&quot;&gt;2.WebStorm/PHPStorm&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;https://www.jetbrains.com/webstorm/&quot; target=&quot;_blank&quot;&gt;Download WebStorm&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;https://www.jetbrains.com/phpstorm/&quot; target=&quot;_blank&quot;&gt;Download PHPStorm&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;S.O: Cross Platform&lt;/strong&gt;
+&lt;br /&gt;
+&lt;strong&gt;Licença:  Free&lt;/strong&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Conheço muito pouco destas IDE’s para poder falar abertamente, porém o que tenho lido e ouvido são só elogios até o momento, o que dá pra perceber é que são IDE’s completíssimas e atualizadas com frequência, tem ainda o fato de elas serem Cross Platform(assim como o Eclipse), ou seja rodam em Windows, Linux e Mac. A JetBrains está investindo forte nelas e em meio a tanta dedicação dificilmente sairia algo ruim.
+A grande desvantagem de ambas é serem pagas, você até pode usar a versão trial por 30 dias, após isso terá que comprar uma licença, lembrando que esta licença é independente do S.O que você utliza.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;editores-de-texto&quot;&gt;Editores de Texto&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;notepad&quot;&gt;1.Notepad++&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;http://notepad-plus-plus.org/&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;S.O: Cross Platform&lt;/strong&gt;
+&lt;br /&gt;
+&lt;strong&gt;Licença:  Free&lt;/strong&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;O Notepad++ foi o primeiro Editor de Textos que utilizei, me lembro de ter ficado fascinado na época com a leveza deste editor, ele tem auto-complete e pode ficar extremamente poderoso se adicionados os plugins certos. Ele tem opção de personalizar o sintaxe highlight de cada linguagem entre outras funcionalidades muito bacanas. 
+Para projetos simples como sites estáticos ou alguma manutenção rápida, não vejo problema algum em utilizar o Notepad++, porém se precisa criar um projeto maior e precisa de mas agilidade no desenvolvimento fique de olho nas opções que vem a seguir.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;brackets&quot;&gt;2.Brackets&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;http://brackets.io/&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;S.O: Cross Platform&lt;/strong&gt;
+&lt;br /&gt;
+&lt;strong&gt;Licença:  Free&lt;/strong&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;O Brackets é o Editor da Adobe… poderia terminar aqui este post mas vou listar algumas peculiaridades deste ótimo Editor.
+O Bracktes tem alguns recursos que propciam uma facilidade e agilidade tremenda ao desenvolver, alguns exemplos são:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Edição de Stylesheet direto no elemento HTML:
+  Ao clicar em algum seletor em um arquivo HTML, pode-se clicar com o botão direito e selecionar a opção Quick Edit ou ainda o atalho CTRL+E, fazendo isto abrirá abaixo uma caixa de edição referente ao CSS daquele elemento,este recurso é sensacional e dá uma praticidade enorme principalmente quando sua folhas de estilos está demasiadamente grande.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Edição de Cores direto no código CSS:
+  Assim como acontece com o recurso anterior, cada vez que vir um código de cor em seu documento HTML ou CSS, pode-se dar um Quick Edit ou CTRL+E e escolher a cor em um ColorPicker, um recurso também sensacional.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Fora isso o Brackets tem gerenciador de pacotes assim como o Sublime e aceita plugins como o Emmet e vários outros, é sim um baita Editor e caso não queira usá-lo acompanhe de perto.
+Quanto ao Brackets a única resalva é que por ser recente ainda não há tantos Plugins, Snippets, Temas entre outras coisas, mas não vai visto a popularidade crescente dele.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;atom&quot;&gt;3.Atom&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;https://github.com/atom/atom&quot; target=&quot;_blank&quot;&gt;Repositório no Github&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;S.O: Cross Platform&lt;/strong&gt;
+&lt;br /&gt;
+&lt;strong&gt;Licença:  Free&lt;/strong&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Antes de mais nada o Atom é o Editor de Texto do Github, só esta informação já é mais que o suficiente pra ele ser levado a sério, mas não para por ai, ele é Open Source e está disponível no em  seu repositório no link acima.
+O Atom também é Cross Platform, e confesso que até escrever este post não tinha testado ele ainda, e vou te dizer, fiquei vendido com este Editor, ele tem muitas features bacanas assim como o SublimeText, e algumas outras sensacionais que vem por padrão que nem mesmo o Sublime tem, é muito bom e vou continuar testando ele sem sombra de dúvidas. Uma coisa que me chamou muito a atenção e me deixou boqueaberto foi o recurso de Preview de Markdown dele, quem me conhece sabe que sou fissurado em Markdown, e para este recurso utilizando o comando Ctrl+Shift+M ele abre uma coluna ao lado da atual com a visualização em tempo real do seu Markdown *———* it’s beatiful.
+Por ter utilizado pouco, ainda não consegui definir alguma desvantagem no uso do Atom, mas assim como o Brackets talvez por ser recente ainda não tenha tantos plugins,snippets e afins como o Sublime mas com certeza está no caminho certo.
+Fique abaixo com um print do Markdown Preview do Atom.
+&lt;img class=&quot;img-responsive&quot; src=&quot;/img/post-02-imgcontent2.jpg&quot; alt=&quot;Imagem do recurso Markdown Preview do Atom&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;vimvi-improved&quot;&gt;4.VIM(VI Improved)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;http://www.vim.org/download.php&quot; target=&quot;_blank&quot;&gt;Repositório no Github&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;S.O: Cross Platform&lt;/strong&gt;
+&lt;br /&gt;
+&lt;strong&gt;Licença:  Free&lt;/strong&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O melhor método para gerar strings aleatórias é colocar um estagiário no Vim e pedir para ele sair.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A frase acima é um clássico e a mais pura verdade, o VIM é um editor de linha de comando e quem é mais Old School adora ele(minha experiência com ele é bem pequena), porém o VIM é um Editor que todo desenvolvedor Web deve conhecer e ao menos saber criar/editar arquivos por ele, pois se um dia precisar manipular arquivos em um servidor via SSH por exemplo, o único Editor acessível geralmente é o VIM ou ainda o VI. Apesar de ser um Editor de linha de comando o VIM tem vários plugins e temas que o deixam sem sombra de dúvidas em pé de igualdade com qualquer outro editor, geralmente aquela galerinha que trampa ali no &lt;strong&gt;Vale do Silício&lt;/strong&gt; utiliza o VIM  :p .&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sublime-text------&quot;&gt;5.Sublime-Text  *—-*&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;http://www.sublimetext.com/2&quot; target=&quot;_blank&quot;&gt;Sublime Text 2&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;http://www.sublimetext.com/3&quot; target=&quot;_blank&quot;&gt;Sublime Text 3&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;S.O: Cross Platform&lt;/strong&gt;
+&lt;br /&gt;
+&lt;strong&gt;Licença:  Free com Popup pra Comprar&lt;/strong&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Enfim chegamos no meu Editor de Textos predileto e o que eu uso em meus projetos, o Sublime Text, como podem conferir acima deixei o link das duas versões 2 e 3, o 3 está em fase Beta mas pode confiar que é bem estável.
+O Sublime tem n recursos como plugins, snippets, themas e váaaaarias funcionalidades sensacionais tais como:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Edição de Múltiplas Linhas;&lt;/li&gt;
+  &lt;li&gt;Code Folding(Esconde Blocos de códigos);&lt;/li&gt;
+  &lt;li&gt;Sintaxe Highlighter(Colore os códigos de acordo com a linguagem selecionada);&lt;/li&gt;
+  &lt;li&gt;Free Distraction Mode(Modo sem ditração para melhorar o foco no desenvolvimento);&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;E mais uma gama de funcionalidades, porém pra poder utiliza o Sublime por completo, é necessário instalar o Package Control &lt;a href=&quot;https://sublime.wbond.net/installation&quot; target=&quot;_blank&quot;&gt;Link aqui&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;O Sublime é um dos mais completos Editores da atualidade, há quem discorde e prefira outros, sem grilo, e tem várias funcionalidades do Sublime que os outros Editores citados acima também possuem, o diferencial do Sublime é que ele já tem uma comunidade forte que contribui massivamente criando plugins, snippets, temas e várias outras ferramentas que fazem do Sublime este ícone entre os Editores(Puxei saco bagarai agora).&lt;/p&gt;
+
+&lt;p&gt;O Sublime é pago porém pode-se utilizá-lo sem nenhuma restrição por tempo indeterminado, o único porém é uma janelinha chata que fica pulando na sua tela as vezes pedindo pra você comprar a licença, geralmente quando você salva arquivos, mas é só ignorar e utilizar sem moderação hu3hu3hu3. &lt;/p&gt;
+
+&lt;p&gt;É isso pessoal, como eu disse no começo post, abordei bem superficialmente cada IDE/Editor, se quiserem saber mais é só procurar a documentação no próprio link que eu deixei de cada um, se tiverem alguma crítica e/ou sugestão não hesite em deixar um comentário, e comente pra dizer o que achou do post para que eu possa ter um norte a seguir e saber no que preciso melhorar, por hoje é só vlw flws \o/.&lt;/p&gt;
+
+&lt;h4 id=&quot;ah--esqueci-de-dizer-para-o-prximo-post-criarei-uma-vdeo-aula-abordando-as-melhores-ferramentas-e-funcionalidades-do-sublime-e-darei-uma-pincelada-no-brackets-e-no-atom-fiquem-atentos-e-no-esqueam-de-compartilhar-o-post&quot;&gt;Ah é, esqueci de dizer, para o próximo post criarei uma vídeo-aula abordando as melhores ferramentas e funcionalidades do Sublime e darei uma pincelada no Brackets e no Atom, fiquem atentos e não esqueçam de compartilhar o post.&lt;/h4&gt;
+</description>
+        <pubDate>Wed, 08 Oct 2014 08:00:00 -0300</pubDate>
+        <link>http://napalmdth.github.com/2014/10/08/Melhores-ferramentas-para-desenvolvedores-web/</link>
+        <guid isPermaLink="true">http://napalmdth.github.com/2014/10/08/Melhores-ferramentas-para-desenvolvedores-web/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Lá e de volta outra vez</title>
