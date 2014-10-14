@@ -3,14 +3,14 @@
   <channel>
     <title>PandaDev</title>
     <description>Site voltado ao Desenvolvimento Web, Front-end, Back-end e DevOps</description>
-    <link>http://napalmdth.github.com/</link>
-    <atom:link href="http://napalmdth.github.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 13 Oct 2014 17:03:12 -0300</pubDate>
-    <lastBuildDate>Mon, 13 Oct 2014 17:03:12 -0300</lastBuildDate>
+    <link>http://napalmdth.github.io/</link>
+    <atom:link href="http://napalmdth.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 14 Oct 2014 16:17:24 -0300</pubDate>
+    <lastBuildDate>Tue, 14 Oct 2014 16:17:24 -0300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Melhores Ferramentas para Desenvolvedores Web</title>
+        <title>Melhores Ferramentas para Desenvolvimento Web</title>
         <description>&lt;h3 id=&quot;chega-de-sofrer-chega-de-chorar-hu3hu3hu3&quot;&gt;Chega de sofrer, chega de chorar Hu3Hu3Hu3&lt;/h3&gt;
 &lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/img/post-02-imgcontent1.jpg&quot; alt=&quot;Imagem de Varios Editores e IDEs&quot; /&gt;
 &lt;br /&gt;
@@ -158,8 +158,8 @@ O Sublime tem n recursos como plugins, snippets, themas e váaaaarias funcionali
 &lt;h4 id=&quot;ah--esqueci-de-dizer-para-o-prximo-post-criarei-uma-vdeo-aula-abordando-as-melhores-ferramentas-e-funcionalidades-do-sublime-e-darei-uma-pincelada-no-brackets-e-no-atom-fiquem-atentos-e-no-esqueam-de-compartilhar-o-post&quot;&gt;Ah é, esqueci de dizer, para o próximo post criarei uma vídeo-aula abordando as melhores ferramentas e funcionalidades do Sublime e darei uma pincelada no Brackets e no Atom, fiquem atentos e não esqueçam de compartilhar o post.&lt;/h4&gt;
 </description>
         <pubDate>Wed, 08 Oct 2014 08:00:00 -0300</pubDate>
-        <link>http://napalmdth.github.com/2014/10/08/Melhores-ferramentas-para-desenvolvedores-web/</link>
-        <guid isPermaLink="true">http://napalmdth.github.com/2014/10/08/Melhores-ferramentas-para-desenvolvedores-web/</guid>
+        <link>http://napalmdth.github.io/2014/10/08/melhores-ferramentas-para-desenvolvimento-web/</link>
+        <guid isPermaLink="true">http://napalmdth.github.io/2014/10/08/melhores-ferramentas-para-desenvolvimento-web/</guid>
         
         
       </item>
@@ -169,13 +169,13 @@ O Sublime tem n recursos como plugins, snippets, themas e váaaaarias funcionali
         <description>&lt;h3 id=&quot;bem-vindos-a-este-humilde-blog-de-tecnologia&quot;&gt;Bem vindos a este humilde blog de tecnologia&lt;/h3&gt;
 &lt;p&gt;Olá leitores, de hoje em diante estarei postando aqui neste blog matérias sobre Desenvolvimento Web. As matérias atenderão a todos os níveis, de iniciante a avançado, e eu realmente vou me esforçar muito para que tudo isso dê certo. Espero de verdade que este blog possa ajudar vocês caros leitores, e se encontrarem algum erro nas postagens não hesitem em me corrigir ou caso tenham alguma dúvida referente à postagem em questão coloque-a nos comentários sem medo.&lt;/p&gt;
 
-&lt;p&gt;Então é isso galera, qualquer crítica ou sugestão podem enviar e-mail para pandawebdev@hotmail.com, outras informações você podem encontrar clicando &lt;a href=&quot;http://napalmdth.github.com/about&quot;&gt;aqui&lt;/a&gt;. Caso queiram sugerir matérias a serem abordadas também é o mesmo e-mail, ou inbox no facebook.&lt;/p&gt;
+&lt;p&gt;Então é isso galera, qualquer crítica ou sugestão podem enviar e-mail para pandawebdev@hotmail.com, outras informações você podem encontrar clicando &lt;a href=&quot;http://napalmdth.github.io/about&quot;&gt;aqui&lt;/a&gt;. Caso queiram sugerir matérias a serem abordadas também é o mesmo e-mail, ou inbox no facebook.&lt;/p&gt;
 
 &lt;p&gt;Espero que assim como eu todos estejam empolgados e até a próxima já com matéria de WebDev.&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Oct 2014 09:00:00 -0300</pubDate>
-        <link>http://napalmdth.github.com/2014/10/03/La-e-de-volta-outra-vez/</link>
-        <guid isPermaLink="true">http://napalmdth.github.com/2014/10/03/La-e-de-volta-outra-vez/</guid>
+        <link>http://napalmdth.github.io/2014/10/03/la-e-de-volta-outra-vez/</link>
+        <guid isPermaLink="true">http://napalmdth.github.io/2014/10/03/la-e-de-volta-outra-vez/</guid>
         
         
       </item>
