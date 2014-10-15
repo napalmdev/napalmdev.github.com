@@ -5,14 +5,13 @@
     <description>Site voltado ao Desenvolvimento Web, Front-end, Back-end e DevOps</description>
     <link>http://napalmdth.github.io/</link>
     <atom:link href="http://napalmdth.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 15 Oct 2014 08:07:38 -0300</pubDate>
-    <lastBuildDate>Wed, 15 Oct 2014 08:07:38 -0300</lastBuildDate>
+    <pubDate>Wed, 15 Oct 2014 11:57:27 -0300</pubDate>
+    <lastBuildDate>Wed, 15 Oct 2014 11:57:27 -0300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Melhores Ferramentas para Desenvolvimento Web</title>
-        <description>&lt;h3 id=&quot;chega-de-sofrer-chega-de-chorar-hu3hu3hu3&quot;&gt;Chega de sofrer, chega de chorar Hu3Hu3Hu3&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/img/post-02-imgcontent1.jpg&quot; alt=&quot;Imagem de Varios Editores e IDEs&quot; /&gt;
+        <title>Melhores Ferramentas para WebDev</title>
+        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/img/post-02-imgcontent1.jpg&quot; alt=&quot;Imagem de Varios Editores e IDEs&quot; /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 Faaaaala galera, começa aqui e agora uma série de tutoriais sobre as melhores ferramentas pra quem quer desenvolver para Web. Eu falarei superficialmente sobre cada uma das opções e posteriormente farei posts separados falando especificamente de cada ferramenta que uso em meus projetos, espero que gostem e testem estas ferramentas pois com certeza lhes serão úteis assim como estão sendo para mim.&lt;/p&gt;
@@ -24,7 +23,7 @@ Faaaaala galera, começa aqui e agora uma série de tutoriais sobre as melhores 
 &lt;h2 id=&quot;editores-ou-ides&quot;&gt;Editores ou IDE’s?&lt;/h2&gt;
 &lt;hr /&gt;
 &lt;p&gt;Bom, a escolha entre Editor de Texto ou IDE vai depender exclusivamente se você precisará ou não Compilar ou Debuggar sua aplicação, outra característica das IDE’s é abrir navegador automaticamente para que você possa conferir as alterações em seu código, caso não precise destas features nativamente(pois com alguns Plugins os Editores conseguem fazer as mesmas coisas) pode utilizar um Editor de Textos normalmente.
-Começarei falando sobre as IDE’s mais conhecidas pra WebDev(com PHP ou JavaScript):&lt;/p&gt;
+Começarei falando sobre as IDE’s mais conhecidas pra WebDev(para PHP ou JavaScript):&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -33,7 +32,7 @@ Começarei falando sobre as IDE’s mais conhecidas pra WebDev(com PHP ou JavaSc
 
 &lt;h3 id=&quot;eclipse&quot;&gt;1.Eclipse&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;http://www.eclipse.org/downloads/packages/eclipse-php-developers/lunasr1&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;br /&gt;
-&lt;strong&gt;S.O: Cross Platform&lt;/strong&gt;
+&lt;strong&gt;S.O: Windows, Linux e Mac&lt;/strong&gt;
 &lt;br /&gt;
 &lt;strong&gt;Licença:  Free&lt;/strong&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -47,7 +46,7 @@ As desvantagens do Eclipse é que por ser uma IDE robusta ele é lento para abri
 &lt;h3 id=&quot;webstormphpstorm&quot;&gt;2.WebStorm/PHPStorm&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;https://www.jetbrains.com/webstorm/&quot; target=&quot;_blank&quot;&gt;Download WebStorm&lt;/a&gt;&lt;br /&gt;
 &lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;https://www.jetbrains.com/phpstorm/&quot; target=&quot;_blank&quot;&gt;Download PHPStorm&lt;/a&gt;&lt;br /&gt;
-&lt;strong&gt;S.O: Cross Platform&lt;/strong&gt;
+&lt;strong&gt;S.O: Windows, Linux e Mac&lt;/strong&gt;
 &lt;br /&gt;
 &lt;strong&gt;Licença:  Free&lt;/strong&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -62,7 +61,7 @@ A grande desvantagem de ambas é serem pagas, você até pode usar a versão tri
 
 &lt;h3 id=&quot;notepad&quot;&gt;1.Notepad++&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;http://notepad-plus-plus.org/&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;br /&gt;
-&lt;strong&gt;S.O: Cross Platform&lt;/strong&gt;
+&lt;strong&gt;S.O: Windows&lt;/strong&gt;
 &lt;br /&gt;
 &lt;strong&gt;Licença:  Free&lt;/strong&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -74,7 +73,7 @@ Para projetos simples como sites estáticos ou alguma manutenção rápida, não
 
 &lt;h3 id=&quot;brackets&quot;&gt;2.Brackets&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;http://brackets.io/&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;br /&gt;
-&lt;strong&gt;S.O: Cross Platform&lt;/strong&gt;
+&lt;strong&gt;S.O: Windows, Linux e Mac&lt;/strong&gt;
 &lt;br /&gt;
 &lt;strong&gt;Licença:  Free&lt;/strong&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -101,7 +100,7 @@ Quanto ao Brackets a única resalva é que por ser recente ainda não há tantos
 &lt;h3 id=&quot;atom&quot;&gt;3.Atom&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;https://github.com/atom/atom&quot; target=&quot;_blank&quot;&gt;Repositório no Github&lt;/a&gt;&lt;br /&gt;
-&lt;strong&gt;S.O: Cross Platform&lt;/strong&gt;
+&lt;strong&gt;S.O: Windows, Linux e Mac&lt;/strong&gt;
 &lt;br /&gt;
 &lt;strong&gt;Licença:  Free&lt;/strong&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -116,7 +115,7 @@ Fique abaixo com um print do Markdown Preview do Atom.
 
 &lt;h3 id=&quot;vimvi-improved&quot;&gt;4.VIM(VI Improved)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;http://www.vim.org/download.php&quot; target=&quot;_blank&quot;&gt;Repositório no Github&lt;/a&gt;&lt;br /&gt;
-&lt;strong&gt;S.O: Cross Platform&lt;/strong&gt;
+&lt;strong&gt;S.O: Windows, Linux e Mac&lt;/strong&gt;
 &lt;br /&gt;
 &lt;strong&gt;Licença:  Free&lt;/strong&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -125,14 +124,21 @@ Fique abaixo com um print do Markdown Preview do Atom.
   &lt;p&gt;O melhor método para gerar strings aleatórias é colocar um estagiário no Vim e pedir para ele sair.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;A frase acima é um clássico e a mais pura verdade, o VIM é um editor de linha de comando e quem é mais Old School adora ele(minha experiência com ele é bem pequena), porém o VIM é um Editor que todo desenvolvedor Web deve conhecer e ao menos saber criar/editar arquivos por ele, pois se um dia precisar manipular arquivos em um servidor via SSH por exemplo, o único Editor acessível geralmente é o VIM ou ainda o VI. Apesar de ser um Editor de linha de comando o VIM tem vários plugins e temas que o deixam sem sombra de dúvidas em pé de igualdade com qualquer outro editor, geralmente aquela galerinha que trampa ali no &lt;strong&gt;Vale do Silício&lt;/strong&gt; utiliza o VIM  :p .&lt;/p&gt;
+&lt;p&gt;A frase acima é um clássico e a mais pura verdade, o VIM é um editor de linha de comando e quem é mais Old School adora ele(minha experiência com ele é bem pequena), porém o VIM é um Editor que todo desenvolvedor Web deve conhecer e ao menos saber criar/editar arquivos por ele, pois se um dia precisar manipular arquivos em um servidor via SSH por exemplo, o único Editor acessível geralmente é o VIM ou ainda o VI. Apesar de ser um Editor de linha de comando o VIM tem vários plugins e temas que o deixam sem sombra de dúvidas em pé de igualdade com qualquer outro editor, geralmente aquela galerinha que trampa ali no &lt;strong&gt;Vale do Silício&lt;/strong&gt; utiliza o VIM  :p.&lt;br /&gt;
+Uma característica que pessoalmente eu acho sensacional no VIM e muitas pessoas odeiam, é o fato dele separar por stages a edição de arquivos, por exemplo: Quando você simplesmente abre um arquivo no VIM &lt;code&gt;sudo vim file.php&lt;/code&gt;, o que ele faz é abrir ou criar o arquivo em modo de comandos, e para poder inserir algo no arquivo é preciso apertar a tecla &lt;strong&gt;“i”&lt;/strong&gt; do teclado mudando ele para o stage de inserção, isso evita alterações acidentais nos arquivos. Para sair do modo de inserção e voltar para o modo de comandos é só apertar &lt;strong&gt;“Esc”&lt;/strong&gt;, e por fim digitar os comandos &lt;strong&gt;“:wq ou :x”&lt;/strong&gt; para gravar e sair.
+Para instalar em versões do Linux baseados no Debian basta rodar o comando abaixo:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo apt-get install vim -y
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Ele vai pedir a senha de root e pronto, seu VIM está instalado, agora é só destrinchá-lo.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;sublime-text------&quot;&gt;5.Sublime-Text  *—-*&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;http://www.sublimetext.com/2&quot; target=&quot;_blank&quot;&gt;Sublime Text 2&lt;/a&gt;&lt;br /&gt;
 &lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;http://www.sublimetext.com/3&quot; target=&quot;_blank&quot;&gt;Sublime Text 3&lt;/a&gt;&lt;br /&gt;
-&lt;strong&gt;S.O: Cross Platform&lt;/strong&gt;
+&lt;strong&gt;S.O: Windows, Linux e Mac&lt;/strong&gt;
 &lt;br /&gt;
 &lt;strong&gt;Licença:  Free com Popup pra Comprar&lt;/strong&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -153,13 +159,13 @@ O Sublime tem n recursos como plugins, snippets, themas e váaaaarias funcionali
 
 &lt;p&gt;O Sublime é pago porém pode-se utilizá-lo sem nenhuma restrição por tempo indeterminado, o único porém é uma janelinha chata que fica pulando na sua tela as vezes pedindo pra você comprar a licença, geralmente quando você salva arquivos, mas é só ignorar e utilizar sem moderação hu3hu3hu3. &lt;/p&gt;
 
-&lt;p&gt;É isso pessoal, como eu disse no começo post, abordei bem superficialmente cada IDE/Editor, se quiserem saber mais é só procurar a documentação no próprio link que eu deixei de cada um, se tiverem alguma crítica e/ou sugestão não hesite em deixar um comentário, e comente pra dizer o que achou do post para que eu possa ter um norte a seguir e saber no que preciso melhorar, por hoje é só vlw flws \o/.&lt;/p&gt;
+&lt;p&gt;É isso pessoal, como eu disse no começo post, abordei bem superficialmente cada IDE/Editor, se quiserem saber mais é só procurar a documentação no próprio link que eu deixei de cada um, se tiverem alguma crítica e/ou sugestão não hesitem em deixar um comentário, e comentem pra dizer o que acharam do post para que eu possa ter um norte a seguir e saber no que preciso melhorar, por hoje é só vlw flws \o/.&lt;/p&gt;
 
 &lt;h4 id=&quot;ah--esqueci-de-dizer-para-o-prximo-post-criarei-uma-vdeo-aula-abordando-as-melhores-ferramentas-e-funcionalidades-do-sublime-e-darei-uma-pincelada-no-brackets-e-no-atom-fiquem-atentos-e-no-esqueam-de-compartilhar-o-post&quot;&gt;Ah é, esqueci de dizer, para o próximo post criarei uma vídeo-aula abordando as melhores ferramentas e funcionalidades do Sublime e darei uma pincelada no Brackets e no Atom, fiquem atentos e não esqueçam de compartilhar o post.&lt;/h4&gt;
 </description>
         <pubDate>Wed, 08 Oct 2014 08:00:00 -0300</pubDate>
-        <link>http://napalmdth.github.io/melhores-ferramentas-para-webdev</link>
-        <guid isPermaLink="true">http://napalmdth.github.io/melhores-ferramentas-para-webdev</guid>
+        <link>http://napalmdth.github.io/melhores-ferramentas-para-desenvolvimento-web</link>
+        <guid isPermaLink="true">http://napalmdth.github.io/melhores-ferramentas-para-desenvolvimento-web</guid>
         
         
       </item>

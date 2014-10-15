@@ -56,7 +56,17 @@
 
 <body>
 
-    
+    <!--Facebook Comments Plugin-->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&appId=284487638416648&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
 
 <!-- Navigation -->
 <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
@@ -199,7 +209,7 @@
 
                 <hr>
                 
-                <div class="fb-comments" data-href="http://napalmdth.github.io/la-e-de-volta-outra-vez" data-numposts="5" data-colorscheme="light" data-width="100%"></div>
+                <div class="fb-comments" href="http://napalmdth.github.io/la-e-de-volta-outra-vez" data-numposts="5" data-colorscheme="light" data-width="100%"></div>
 
                 <br>    
                 <hr>
@@ -226,7 +236,7 @@
                 <ul class="pager">
                     
                     <li class="previous">
-                        <a href="/melhores-ferramentas-para-webdev" data-toggle="tooltip" data-placement="top" title="Melhores Ferramentas para Desenvolvimento Web">&larr; Pŕoximo Post</a> 
+                        <a href="/melhores-ferramentas-para-desenvolvimento-web" data-toggle="tooltip" data-placement="top" title="Melhores Ferramentas para WebDev">&larr; Pŕoximo Post</a> 
                     </li>
                      
                      
