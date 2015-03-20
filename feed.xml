@@ -3,11 +3,154 @@
   <channel>
     <title>PandaDev</title>
     <description>Site voltado ao Desenvolvimento Web, Front-end, Back-end e DevOps</description>
-    <link>http://napalmdth.github.io/</link>
-    <atom:link href="http://napalmdth.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 15 Oct 2014 15:30:48 -0300</pubDate>
-    <lastBuildDate>Wed, 15 Oct 2014 15:30:48 -0300</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <link>http://napalmdev.github.io/</link>
+    <atom:link href="http://napalmdev.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 20 Mar 2015 16:54:19 -0300</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2015 16:54:19 -0300</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Prazer, Sublime Text</title>
+        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/img/post-03-imgcontent1.jpg&quot; alt=&quot;Imagem Meme Pleasure Logo Sublime-Text&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;img class=&quot;avatar&quot; src=&quot;/img/panda.png&quot; alt=&quot;avatar-autor&quot; /&gt;
+ Faaala galera, como prometido, na verdade maaaais ou menos como prometido, já que era pra ser uma &lt;strong&gt;video-aula&lt;/strong&gt; de Sublime, mas tá valendo. Neste post vou falar da instalação do Sublime, do Package Control e sobre o Emmet, um plugin que quebra árvores *–*, então apertem os cintos que a viagem vai ser turbulenta Zehahahahahaha.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;avatar&quot; src=&quot;/img/hue.png&quot; alt=&quot;avatar-interlocutor&quot; /&gt;
+Começa logo &lt;strong&gt;BARALHO&lt;/strong&gt;….&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;avatar&quot; src=&quot;/img/panda.png&quot; alt=&quot;avatar-autor&quot; /&gt;
+ Ok, vamos lá. O negócio é o seguinte: Pra quem não viu meu primeiro post sobre &lt;a href=&quot;/melhores-ferramentas-para-desenvolvimento-web&quot; target=&quot;_blank&quot;&gt;Os melhores Editores para Webdev&lt;/a&gt;, clica aí para saber do que estamos falando morô? Mãos a obra.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;instalando-o-sublime-text-3&quot;&gt;Instalando o Sublime Text 3&lt;/h2&gt;
+&lt;p&gt;&lt;img class=&quot;avatar&quot; src=&quot;/img/panda.png&quot; alt=&quot;avatar-autor&quot; /&gt;
+ Nós vamos utilizar a versão 3 do Sublime que, apesar de ser versão Beta eu já utilizo a um bom tempo e nunca tive nenhum problema com ela, para fazer download do Sublime &lt;a href=&quot;http://www.sublimetext.com/3&quot; target=&quot;_blank&quot;&gt;clique aqui&lt;/a&gt; e faça o donwload de acordo com seu S.O, depois é só instalar normalmente como qualquer outro aplicativo.&lt;/p&gt;
+
+&lt;h2 id=&quot;o-package-control&quot;&gt;O Package Control&lt;/h2&gt;
+&lt;p&gt;&lt;img class=&quot;avatar&quot; src=&quot;/img/panda.png&quot; alt=&quot;avatar-autor&quot; /&gt; 
+ Agora começa a parte legal, para que você possa instalar de forma prática qualquer extensão ao Sublime, existe uma ferramenta que agiliza muito este processo, adivinha qual é esta ferramenta???&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;avatar&quot; src=&quot;/img/hue.png&quot; alt=&quot;avatar-interlocutor&quot; /&gt;
+ Nuss você já disse, é o Package Control neah, que cara sem graça….&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;avatar&quot; src=&quot;/img/panda.png&quot; alt=&quot;avatar-autor&quot; /&gt; 
+ Isto jovem, o Package Control faz toda a parte chata pra gente, para instalá-lo &lt;a href=&quot;https://packagecontrol.io/installation#st3&quot;&gt;clique aqui&lt;/a&gt;, verifique se a aba ativa está em SUBLIME TEXT 3, copie o código dentro da caixa, abra o Sublime(caso ainda não o tenha feito), pressione &lt;strong&gt;Ctrl+`&lt;/strong&gt; ou no menu &lt;strong&gt;View-&amp;gt;Show Console&lt;/strong&gt;, cole o código que você havia copiado e pressione &lt;strong&gt;ENTER&lt;/strong&gt;. Pronto, agora que você instalou o Package Control acredito que deseja saber como utilizá-lo, para abrir o Package Control pressione &lt;strong&gt;Ctrl + SHIFT + P&lt;/strong&gt; e em seguida digite &lt;strong&gt;install&lt;/strong&gt;, você verá que o item marcado é o &lt;strong&gt;Package Control: Install Package&lt;/strong&gt;, agora pressione &lt;strong&gt;ENTER&lt;/strong&gt; e você verá uma lista de extensões para você adicionar ao Sublime(lembrando que para ver a lista você deverá estar conectado a Internet). Neste ponto há um mundo de coisas que você pode instalar no Sublime como: Temas, Plugins, Snippets, etc, etc e etc. Então agora com tudo instalado, que comece a zuera :v&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;avatar&quot; src=&quot;/img/hue.png&quot; alt=&quot;avatar-interlocutor&quot; /&gt; 
+ huehuehuehuehuehuehuehuehuehuehue&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;emmet&quot;&gt;Emmet&lt;/h2&gt;
+
+&lt;p&gt;&lt;img class=&quot;avatar&quot; src=&quot;/img/panda.png&quot; alt=&quot;avatar-autor&quot; /&gt; 
+ O Sublime possui uma gama imensa de plugins, hoje eu vou falar do Emmet, para instalá-lo, abara o Package Control(Ctrl+SHIFT+P, depois install) e na lista de extensões digite Emmet e instale o &lt;strong&gt;Emmet Css Snippets&lt;/strong&gt; provavelmente a primeira opção, filé do boi, agora com o Emmet instalado vamos ver como ele funciona.&lt;/p&gt;
+
+&lt;h4 id=&quot;site-oficial-do-emmet-clique-aquihttpemmetio&quot;&gt;Site oficial do Emmet: &lt;a href=&quot;http://emmet.io/&quot;&gt;Clique aqui&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;O Antigo ZenCoding, hoje Emmet, é um plugin que gera códigos baseado em pequenos atalhos(snippets) que você digita no Sublime, por exemplo:
+Em um arquivo HTML digite &lt;strong&gt;lorem&lt;/strong&gt; e em seguida aperte &lt;strong&gt;TAB&lt;/strong&gt; e você terá: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla optio ab delectus nesciunt alias sint velit ea illum unde necessitatibus sit totam labore quisquam corporis, quasi esse, hic libero aliquid.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/img/post-03-imgcontent2.jpg&quot; alt=&quot;Meme-Nada-Mal&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;avatar&quot; src=&quot;/img/panda.png&quot; alt=&quot;avatar-autor&quot; /&gt; 
+ Neh, agora você já viu que dá pra fazer uns paranauê muito fera com este plugin, então segura essa, digite o código abaixo e aperte &lt;strong&gt;TAB&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+div#wrapper&amp;gt;header.cabecalho&amp;gt;nav#menu&amp;gt;ul&amp;gt;li*5&amp;gt;a[href=&quot;#&quot;]{Item $}^^^^+div.content&amp;gt;section*2^+footer&amp;gt;nav&amp;gt;&amp;gt;ul&amp;gt;li*6&amp;gt;a[href=&quot;#&quot;]{Item $}
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/img/post-03-imgcontent3.jpg&quot; alt=&quot;Meme-Vomitando-Arco-Iris&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;avatar&quot; src=&quot;/img/hue.png&quot; alt=&quot;avatar-interlocutor&quot; /&gt;
+Mas que bruxaria foi essa?&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;avatar&quot; src=&quot;/img/panda.png&quot; alt=&quot;avatar-autor&quot; /&gt; 
+Loko neh? Este é o verdadeiro poder do Emmet, veja abaixo uma mini lista explicando os Caracteres chave dele:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;# Cerquilho&lt;/h2&gt;
+&lt;p&gt;O caractere &lt;strong&gt;”#”&lt;/strong&gt; (cerquilho) determina que a palavra seguinte será o atributo &lt;strong&gt;id&lt;/strong&gt; da tag que vem antes do símbolo, veja o exemplo:&lt;br /&gt;
+&lt;strong&gt;div#div-id&lt;/strong&gt; 
+&lt;code&gt;&amp;lt;div id=&quot;div-id&quot;&amp;gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1&gt;. Ponto&lt;/h1&gt;
+&lt;p&gt;O ponto é a mesma coisa que o cerquilho, porém ele diz que o atributo a seguir vai ser uma &lt;strong&gt;class&lt;/strong&gt;, exemplo:&lt;br /&gt; 
+&lt;strong&gt;header.cabecalho&lt;/strong&gt; 
+&lt;code&gt;&amp;lt;header class=&quot;cabecalho&quot;&amp;gt;&amp;lt;/header&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1&gt;*  $ - Asterisco e Cifrão&lt;/h1&gt;
+&lt;p&gt;O Asterisco(&lt;strong&gt;”*“&lt;/strong&gt;) funciona como um multiplicador, o que ele faz é multiplicar o elemento que o antecede pelo número que vem depois dele, e o Cifrão(&lt;strong&gt;”$“&lt;/strong&gt;) serve como variável guardando o contador de itens do Asterisco, exemplo:&lt;br /&gt;
+&lt;strong&gt;li{Item $}*5&lt;/strong&gt;&lt;br /&gt;
+&lt;code&gt;&amp;lt;li&amp;gt;Item 1&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Item 2&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Item 3&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Item 4&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Item 5&amp;lt;/li&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1&gt;[]   {} Colchetes e Chaves&lt;/h1&gt;
+&lt;p&gt;Eles servem para especificar atributos e conteúdo de um elemento, exemplo:&lt;br /&gt;
+&lt;strong&gt;a[href=”/contato”]{Entre em Contato}&lt;/strong&gt;&lt;br /&gt;
+&lt;code&gt;&amp;lt;a href=&quot;/contato&quot;&amp;gt;Entre em Contato&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1&gt;&amp;gt; Maior que&lt;/h1&gt;
+&lt;p&gt;O caractere &lt;strong&gt;”&amp;gt;”&lt;/strong&gt; diz que o próximo elemento será filho do elemento que vem antes do símbolo, veja o exemplo:&lt;br /&gt;
+&lt;strong&gt;header.cabecalho&amp;gt;nav&lt;/strong&gt; 
+&lt;code&gt;&amp;lt;header class=&quot;cabecalho&quot;&amp;gt;&amp;lt;nav&amp;gt;&amp;lt;/nav&amp;gt;&amp;lt;/header&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1&gt;+ Sinal de Adição&lt;/h1&gt;
+&lt;p&gt;O caractere &lt;strong&gt;”+”&lt;/strong&gt; diz que o próximo elemento estará no mesmo nível hierárquico que o elemento que vem antes do símbolo, veja o exemplo:&lt;br /&gt;
+&lt;strong&gt;header+div+footer&lt;/strong&gt; 
+&lt;code&gt;&amp;lt;header&amp;gt;&amp;lt;/header&amp;gt;&amp;lt;div&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;footer&amp;gt;&amp;lt;/footer&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1&gt;^ Circunflexo&lt;/h1&gt;
+&lt;p&gt;O circunflexo tem a função de subir uma casa na cadeia hierárquica, exemplo:&lt;br /&gt;
+&lt;strong&gt;div&amp;gt;header&amp;gt;nav^footer&amp;gt;nav&lt;/strong&gt;&lt;br /&gt;
+&lt;code&gt;&amp;lt;div&amp;gt;
+	&amp;lt;header&amp;gt;
+		&amp;lt;nav&amp;gt;&amp;lt;/nav&amp;gt;
+	&amp;lt;/header&amp;gt;
+	&amp;lt;footer&amp;gt;
+		&amp;lt;nav&amp;gt;&amp;lt;/nav&amp;gt;
+	&amp;lt;/footer&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;
+&lt;br /&gt;
+Obs: No caso acima, percebe-se que &lt;strong&gt;div&lt;/strong&gt; é pai de &lt;strong&gt;header&lt;/strong&gt; que é pai de &lt;strong&gt;nav&lt;/strong&gt;, porém, como &lt;strong&gt;footer&lt;/strong&gt; não é filho de &lt;strong&gt;header&lt;/strong&gt; precisamos subir o mesmo número de casas que descemos para criar o nav, ou seja, uma, por isso apenas um &lt;strong&gt;^&lt;/strong&gt;, caso fossemos subir ao nível de &lt;strong&gt;div&lt;/strong&gt; teríamos que escrever dois &lt;strong&gt;^&lt;/strong&gt;, exemplo:&lt;br /&gt;
+&lt;strong&gt;div&amp;gt;header&amp;gt;nav^^footer&amp;gt;nav&lt;/strong&gt; ficando assim: &lt;br /&gt;
+&lt;code&gt;&amp;lt;div&amp;gt;&amp;lt;header&amp;gt;&amp;lt;nav&amp;gt;&amp;lt;/nav&amp;gt;&amp;lt;/header&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;footer&amp;gt;&amp;lt;nav&amp;gt;&amp;lt;/nav&amp;gt;&amp;lt;/footer&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;img class=&quot;avatar&quot; src=&quot;/img/panda.png&quot; alt=&quot;avatar-autor&quot; /&gt; 
+Bom, por enquanto é só, hoje vou acabar por aqui se não o post ficará gigantesco, porém prometo que assim que tiver um tempo farei uma vídeo-aula mais afundo sobre o Sublime, e se tiverem interesse em saber mais atalhos do Emmet acessem o link da documentação &lt;a href=&quot;&amp;quot;http://docs.emmet.io/&amp;quot;&quot;&gt;aqui&lt;/a&gt; e sejam felizes, espero que tenham gostado e qualquer dúvida não hesitem em postar nos comentários, até.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;avatar&quot; src=&quot;/img/hue.png&quot; alt=&quot;avatar-interlocutor&quot; /&gt;
+Já vai tarde, hueheuehuheuhe zuera, valeu vou treinar aqui.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 20 Mar 2015 12:10:00 -0300</pubDate>
+        <link>http://napalmdev.github.io/prazer-sublime-text</link>
+        <guid isPermaLink="true">http://napalmdev.github.io/prazer-sublime-text</guid>
+        
+        
+      </item>
     
       <item>
         <title>Melhores Ferramentas para WebDev</title>
@@ -164,8 +307,8 @@ O Sublime tem n recursos como plugins, snippets, themas e váaaaarias funcionali
 &lt;h4 id=&quot;ah--esqueci-de-dizer-para-o-prximo-post-criarei-uma-vdeo-aula-abordando-as-melhores-ferramentas-e-funcionalidades-do-sublime-e-darei-uma-pincelada-no-brackets-e-no-atom-fiquem-atentos-e-no-esqueam-de-compartilhar-o-post&quot;&gt;Ah é, esqueci de dizer, para o próximo post criarei uma vídeo-aula abordando as melhores ferramentas e funcionalidades do Sublime e darei uma pincelada no Brackets e no Atom, fiquem atentos e não esqueçam de compartilhar o post.&lt;/h4&gt;
 </description>
         <pubDate>Wed, 08 Oct 2014 08:00:00 -0300</pubDate>
-        <link>http://napalmdth.github.io/melhores-ferramentas-para-desenvolvimento-web</link>
-        <guid isPermaLink="true">http://napalmdth.github.io/melhores-ferramentas-para-desenvolvimento-web</guid>
+        <link>http://napalmdev.github.io/melhores-ferramentas-para-desenvolvimento-web</link>
+        <guid isPermaLink="true">http://napalmdev.github.io/melhores-ferramentas-para-desenvolvimento-web</guid>
         
         
       </item>
@@ -175,13 +318,13 @@ O Sublime tem n recursos como plugins, snippets, themas e váaaaarias funcionali
         <description>&lt;h3 id=&quot;bem-vindos-a-este-humilde-blog-de-tecnologia&quot;&gt;Bem vindos a este humilde blog de tecnologia&lt;/h3&gt;
 &lt;p&gt;Olá leitores, de hoje em diante estarei postando aqui neste blog matérias sobre Desenvolvimento Web. As matérias atenderão a todos os níveis, de iniciante a avançado, e eu realmente vou me esforçar muito para que tudo isso dê certo. Espero de verdade que este blog possa ajudar vocês caros leitores, e se encontrarem algum erro nas postagens não hesitem em me corrigir ou caso tenham alguma dúvida referente à postagem em questão coloque-a nos comentários sem medo.&lt;/p&gt;
 
-&lt;p&gt;Então é isso galera, qualquer crítica ou sugestão podem enviar e-mail para pandawebdev@hotmail.com, outras informações você podem encontrar clicando &lt;a href=&quot;http://napalmdth.github.io/about&quot;&gt;aqui&lt;/a&gt;. Caso queiram sugerir matérias a serem abordadas também é o mesmo e-mail, ou inbox no facebook.&lt;/p&gt;
+&lt;p&gt;Então é isso galera, qualquer crítica ou sugestão podem enviar e-mail para pandawebdev@hotmail.com, outras informações você podem encontrar clicando &lt;a href=&quot;http://napalmdev.github.io/about&quot;&gt;aqui&lt;/a&gt;. Caso queiram sugerir matérias a serem abordadas também é o mesmo e-mail, ou inbox no facebook.&lt;/p&gt;
 
 &lt;p&gt;Espero que assim como eu todos estejam empolgados e até a próxima já com matéria de WebDev.&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Oct 2014 09:00:00 -0300</pubDate>
-        <link>http://napalmdth.github.io/la-e-de-volta-outra-vez</link>
-        <guid isPermaLink="true">http://napalmdth.github.io/la-e-de-volta-outra-vez</guid>
+        <link>http://napalmdev.github.io/la-e-de-volta-outra-vez</link>
+        <guid isPermaLink="true">http://napalmdev.github.io/la-e-de-volta-outra-vez</guid>
         
         
       </item>
