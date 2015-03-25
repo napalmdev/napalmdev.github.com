@@ -5,8 +5,8 @@
     <description>Site voltado ao Desenvolvimento Web, Front-end, Back-end e DevOps</description>
     <link>http://napalmdev.github.io/</link>
     <atom:link href="http://napalmdev.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 20 Mar 2015 16:54:19 -0300</pubDate>
-    <lastBuildDate>Fri, 20 Mar 2015 16:54:19 -0300</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2015 09:47:30 -0300</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2015 09:47:30 -0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -47,9 +47,9 @@ Começa logo &lt;strong&gt;BARALHO&lt;/strong&gt;….&lt;/p&gt;
 &lt;h2 id=&quot;emmet&quot;&gt;Emmet&lt;/h2&gt;
 
 &lt;p&gt;&lt;img class=&quot;avatar&quot; src=&quot;/img/panda.png&quot; alt=&quot;avatar-autor&quot; /&gt; 
- O Sublime possui uma gama imensa de plugins, hoje eu vou falar do Emmet, para instalá-lo, abara o Package Control(Ctrl+SHIFT+P, depois install) e na lista de extensões digite Emmet e instale o &lt;strong&gt;Emmet Css Snippets&lt;/strong&gt; provavelmente a primeira opção, filé do boi, agora com o Emmet instalado vamos ver como ele funciona.&lt;/p&gt;
+ O Sublime possui uma gama imensa de plugins, hoje eu vou falar do Emmet, para instalá-lo, abara o Package Control(Ctrl+SHIFT+P, depois install) e na lista de extensões digite Emmet e instale o &lt;strong&gt;Emmet&lt;/strong&gt; provavelmente a primeira opção, filé do boi, agora com o Emmet instalado vamos ver como ele funciona.&lt;/p&gt;
 
-&lt;h4 id=&quot;site-oficial-do-emmet-clique-aquihttpemmetio&quot;&gt;Site oficial do Emmet: &lt;a href=&quot;http://emmet.io/&quot;&gt;Clique aqui&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;site-oficial-do-emmet-a-hrefhttpemmetio-targetblankclique-aquia&quot;&gt;Site oficial do Emmet: &lt;a href=&quot;http://emmet.io/&quot; target=&quot;_blank&quot;&gt;Clique aqui&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;O Antigo ZenCoding, hoje Emmet, é um plugin que gera códigos baseado em pequenos atalhos(snippets) que você digita no Sublime, por exemplo:
 Em um arquivo HTML digite &lt;strong&gt;lorem&lt;/strong&gt; e em seguida aperte &lt;strong&gt;TAB&lt;/strong&gt; e você terá: &lt;/p&gt;
 
@@ -60,10 +60,15 @@ Em um arquivo HTML digite &lt;strong&gt;lorem&lt;/strong&gt; e em seguida aperte
 &lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/img/post-03-imgcontent2.jpg&quot; alt=&quot;Meme-Nada-Mal&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;avatar&quot; src=&quot;/img/panda.png&quot; alt=&quot;avatar-autor&quot; /&gt; 
- Neh, agora você já viu que dá pra fazer uns paranauê muito fera com este plugin, então segura essa, digite o código abaixo e aperte &lt;strong&gt;TAB&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;
-div#wrapper&amp;gt;header.cabecalho&amp;gt;nav#menu&amp;gt;ul&amp;gt;li*5&amp;gt;a[href=&quot;#&quot;]{Item $}^^^^+div.content&amp;gt;section*2^+footer&amp;gt;nav&amp;gt;&amp;gt;ul&amp;gt;li*6&amp;gt;a[href=&quot;#&quot;]{Item $}
+ Neh, agora você já viu que dá pra fazer uns paranauê muito fera com este plugin, então segura essa, digite um dos códigos abaixo em um arquivo HTML em branco e aperte &lt;strong&gt;TAB&lt;/strong&gt;:&lt;br /&gt;
+&lt;code&gt;
+!
+&lt;/code&gt;
+&lt;br /&gt;
+OU
+&lt;br /&gt;
+&lt;code&gt;
+!&amp;gt;div#wrapper&amp;gt;header.cabecalho&amp;gt;nav#menu&amp;gt;ul&amp;gt;li*5&amp;gt;a[href=&quot;#&quot;]{Item $}^^^^+div.content&amp;gt;section*2^+footer&amp;gt;nav&amp;gt;&amp;gt;ul&amp;gt;li*6&amp;gt;a[href=&quot;#&quot;]{Item $}
 &lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/img/post-03-imgcontent3.jpg&quot; alt=&quot;Meme-Vomitando-Arco-Iris&quot; /&gt;&lt;/p&gt;
@@ -139,7 +144,7 @@ Obs: No caso acima, percebe-se que &lt;strong&gt;div&lt;/strong&gt; é pai de &l
 
 &lt;hr /&gt;
 &lt;p&gt;&lt;img class=&quot;avatar&quot; src=&quot;/img/panda.png&quot; alt=&quot;avatar-autor&quot; /&gt; 
-Bom, por enquanto é só, hoje vou acabar por aqui se não o post ficará gigantesco, porém prometo que assim que tiver um tempo farei uma vídeo-aula mais afundo sobre o Sublime, e se tiverem interesse em saber mais atalhos do Emmet acessem o link da documentação &lt;a href=&quot;&amp;quot;http://docs.emmet.io/&amp;quot;&quot;&gt;aqui&lt;/a&gt; e sejam felizes, espero que tenham gostado e qualquer dúvida não hesitem em postar nos comentários, até.&lt;/p&gt;
+Bom, por enquanto é só, hoje vou acabar por aqui se não o post ficará gigantesco, porém prometo que assim que tiver um tempo farei uma vídeo-aula mais afundo sobre o Sublime, e se tiverem interesse em saber mais atalhos do Emmet acessem o link da documentação &lt;a href=&quot;http://docs.emmet.io/&quot; target=&quot;_blank&quot;&gt;aqui&lt;/a&gt; e sejam felizes, espero que tenham gostado e qualquer dúvida não hesitem em postar nos comentários, até.&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;avatar&quot; src=&quot;/img/hue.png&quot; alt=&quot;avatar-interlocutor&quot; /&gt;
 Já vai tarde, hueheuehuheuhe zuera, valeu vou treinar aqui.&lt;/p&gt;
